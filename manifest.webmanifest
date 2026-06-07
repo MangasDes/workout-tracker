@@ -1,0 +1,1 @@
+{"name":"A/B Workout Tracker","short_name":"Workout","start_url":"./index.html","display":"standalone","background_color":"#020617","theme_color":"#020617","description":"Offline-first A/B workout and weight tracker with Google Sheets sync.","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
